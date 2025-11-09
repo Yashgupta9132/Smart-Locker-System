@@ -25,7 +25,7 @@ An IoT-enabled smart locker system featuring secure, remote-controlled access an
 
 
 ```bash 
-smart-locker-system/
+Smart-Locker-System/
 ├── esp32-firmware/ # ESP32 Arduino code and hardware docs
 ├── mobile-app/ # React Native app source code
 ├── docs/ # Project report, PPT, screenshots
