@@ -74,10 +74,10 @@ This project is licensed under the MIT License.
 
 Showcasing app UI screens:
 
-![Login Screen](docs/images/login_screen.png)  
-![Locker Control](docs/images/locker_control.png)  
-![Status Display](docs/images/status_display.png)  
-![Wi-Fi Settings](docs/images/wifi_settings.png)
+![Login Screen](docs/images/login_screen.jpg)  
+![Locker Control](docs/images/locker_control.jpg)  
+![Status Display](docs/images/status_display.jpg)  
+![Wi-Fi Settings](docs/images/wifi_settings.jpg)
 
 
 
