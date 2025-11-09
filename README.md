@@ -72,13 +72,27 @@ This project is licensed under the MIT License.
 
 ## Demo
 
-Showcasing app UI screens:
+### Showcasing App UI Screens
 
-![Login Screen](docs/images/login_screen.jpg)  
-![Locker Control](docs/images/locker_control.jpg)  
-![Status Display](docs/images/status_display.jpg)  
-![Wi-Fi Settings](docs/images/wifi_settings.jpg)
-
-
-
-
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="docs/images/login_screen.jpg" width="230" alt="Login Screen"><br>
+        <b>Login Screen</b>
+      </td>
+      <td align="center">
+        <img src="docs/images/locker_control.jpg" width="230" alt="Locker Control"><br>
+        <b>Locker Control</b>
+      </td>
+      <td align="center">
+        <img src="docs/images/status_display.jpg" width="230" alt="Status Display"><br>
+        <b>Status Display</b>
+      </td>
+      <td align="center">
+        <img src="docs/images/wifi_settings.jpg" width="230" alt="Wi-Fi Settings"><br>
+        <b>Wi-Fi Settings</b>
+      </td>
+    </tr>
+  </table>
+</p>
